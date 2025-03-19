@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"menu tutorial","folderPath":"folders/Objects/menu tutorial.yy","name":"menu tutorial","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"main menu","folderPath":"folders/Objects/main menu.yy","name":"main menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"map","folderPath":"folders/Objects/map.yy","name":"map","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -40,9 +41,11 @@
   "resources":[
     {"id":{"name":"oCar","path":"objects/oCar/oCar.yy",},},
     {"id":{"name":"oCity","path":"objects/oCity/oCity.yy",},},
+    {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oMenuButtons","path":"objects/oMenuButtons/oMenuButtons.yy",},},
     {"id":{"name":"oPointer","path":"objects/oPointer/oPointer.yy",},},
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},},
+    {"id":{"name":"menu_tutorial","path":"rooms/menu_tutorial/menu_tutorial.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"rm_map","path":"rooms/rm_map/rm_map.yy",},},
     {"id":{"name":"menuFunctions","path":"scripts/menuFunctions/menuFunctions.yy",},},
@@ -52,6 +55,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"menu_tutorial","path":"rooms/menu_tutorial/menu_tutorial.yy",},},
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"roomId":{"name":"rm_map","path":"rooms/rm_map/rm_map.yy",},},
   ],
