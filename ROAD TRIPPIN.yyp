@@ -45,6 +45,7 @@
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"rm_map","path":"rooms/rm_map/rm_map.yy",},},
+    {"id":{"name":"menuFunctions","path":"scripts/menuFunctions/menuFunctions.yy",},},
     {"id":{"name":"sMap","path":"sprites/sMap/sMap.yy",},},
     {"id":{"name":"sPointer","path":"sprites/sPointer/sPointer.yy",},},
   ],
