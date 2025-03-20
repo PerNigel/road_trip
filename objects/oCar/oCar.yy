@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sCar",
+    "path":"sprites/sCar/sCar.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
