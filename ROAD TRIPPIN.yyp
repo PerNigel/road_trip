@@ -41,6 +41,7 @@
   "name":"ROAD TRIPPIN",
   "resources":[
     {"id":{"name":"oCar","path":"objects/oCar/oCar.yy",},},
+    {"id":{"name":"oChest","path":"objects/oChest/oChest.yy",},},
     {"id":{"name":"oCity","path":"objects/oCity/oCity.yy",},},
     {"id":{"name":"oMenuButtons","path":"objects/oMenuButtons/oMenuButtons.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
@@ -51,6 +52,7 @@
     {"id":{"name":"rm_shooter","path":"rooms/rm_shooter/rm_shooter.yy",},},
     {"id":{"name":"sMap","path":"sprites/sMap/sMap.yy",},},
     {"id":{"name":"sPointer","path":"sprites/sPointer/sPointer.yy",},},
+    {"id":{"name":"spr_chest","path":"sprites/spr_chest/spr_chest.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
