@@ -10,8 +10,8 @@
   "name":"oMenuButtons",
   "overriddenProperties":[],
   "parent":{
-    "name":"main menu",
-    "path":"folders/Objects/main menu.yy",
+    "name":"main_menu",
+    "path":"folders/Objects/main_menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
