@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMap",
-    "path":"sprites/sMap/sMap.yy",
+    "name":"sCity",
+    "path":"sprites/sCity/sCity.yy",
   },
   "spriteMaskId":null,
   "visible":true,
