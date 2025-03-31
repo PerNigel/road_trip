@@ -1,1 +1,1 @@
-image_xscale = image_yscale = 1.25;
+image_index = 1;

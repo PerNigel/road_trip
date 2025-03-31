@@ -1,2 +1,1 @@
-/// @description Insert description here
-// You can write your code in this editor
+fuel = -abs((y - oCar.y + 1) / 10);
