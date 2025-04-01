@@ -5,3 +5,6 @@ draw_text(10,30,string_concat("Food: ", food));
 draw_text(10,50,string_concat("Sleep: ", sleep));
 
 draw_text(10,70,string_concat("City: ", city));
+
+draw_text(10,100,string_concat("Next: ", next));
+draw_text(10,120,string_concat("Curr: ", city));
