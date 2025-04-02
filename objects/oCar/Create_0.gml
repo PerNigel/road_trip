@@ -3,7 +3,8 @@ food = 100;
 sleep = 100;
 
 city = "Banff";
-next = "Edmonton";
+city2 = "";
+city1 = "Edmonton";
 
 /*
 if(oCity.city_name == city){

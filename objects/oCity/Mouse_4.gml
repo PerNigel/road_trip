@@ -1,4 +1,4 @@
-if(instance_exists(oCar) && oCar.next == city_name){
+if(instance_exists(oCar) && (oCar.city1 == city_name || oCar.city2 == city_name)){
 	oCar.fuel += fuel;
 	oCar.food += food;
 	oCar.sleep += sleep;
@@ -7,5 +7,6 @@ if(instance_exists(oCar) && oCar.next == city_name){
 	oCar.y = y+10;
 		
 	oCar.city = city_name;
-	oCar.next = next;
+	oCar.city1 = city1;
+	oCar.city2 = city2;
 }
