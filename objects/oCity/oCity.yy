@@ -35,7 +35,10 @@
     {"$GMObjectProperty":"v1","%Name":"fuel","filters":[],"listItems":[],"multiselect":false,"name":"fuel","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"food","filters":[],"listItems":[],"multiselect":false,"name":"food","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"sleep","filters":[],"listItems":[],"multiselect":false,"name":"sleep","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
-    {"$GMObjectProperty":"v1","%Name":"next","filters":[],"listItems":[],"multiselect":false,"name":"next","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"next","filters":[],"listItems":[
+        "\"Item 0\"",
+        "\"Item 1\"",
+      ],"multiselect":false,"name":"next","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Item 0\"","varType":6,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
