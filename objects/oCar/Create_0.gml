@@ -14,5 +14,5 @@ if(oCity.city_name == city){
 */
 
 state = true;
-path_start(car_path,3,path_action_continue,false);
+path_start(car_path,3,path_action_continue,true);
 
