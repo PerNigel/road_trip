@@ -13,3 +13,5 @@ if(oCity.city_name == city){
 }
 */
 
+path_start(car_path,3,path_action_continue,false);
+
