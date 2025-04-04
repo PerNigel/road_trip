@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":79,
   "bbox_left":0,
-  "bbox_right":47,
+  "bbox_right":79,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"31a34674-c89c-4ee4-a985-5341747005a9","name":"31a34674-c89c-4ee4-a985-5341747005a9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"12e34e7e-26e3-44d2-ae12-ea214826e2c3","name":"12e34e7e-26e3-44d2-ae12-ea214826e2c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":80,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"35b8a488-c72e-4917-b832-10f6db6cec4f","blendMode":0,"displayName":"default","isLocked":false,"name":"35b8a488-c72e-4917-b832-10f6db6cec4f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"55cad6eb-9279-40e2-b178-02af67dbf22d","blendMode":0,"displayName":"default","isLocked":false,"name":"55cad6eb-9279-40e2-b178-02af67dbf22d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Road_Sprite_Sheet_Sprite",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"31a34674-c89c-4ee4-a985-5341747005a9","path":"sprites/Road_Sprite_Sheet_Sprite/Road_Sprite_Sheet_Sprite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"59efeeb0-7109-43ea-b47f-06b424c48469","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"12e34e7e-26e3-44d2-ae12-ea214826e2c3","path":"sprites/Road_Sprite_Sheet_Sprite/Road_Sprite_Sheet_Sprite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4dec2bcc-a10f-4910-8ff1-4545ba38b90c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":48,
+  "width":80,
 }
