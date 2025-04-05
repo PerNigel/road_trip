@@ -9,4 +9,6 @@ if(instance_exists(oCar) && (oCar.city1 == city_name || oCar.city2 == city_name)
 	oCar.city = city_name;
 	oCar.city1 = city1;
 	oCar.city2 = city2;
+	
+	oCar.move_state = true;
 }

@@ -13,6 +13,7 @@ if(oCity.city_name == city){
 }
 */
 
-state = true;
-path_start(car_path,3,path_action_continue,true);
+move_state = false;
+car_path = car_path_1;
+path_start(car_path,2,path_action_restart,true);
 

@@ -1,16 +1,16 @@
 space = keyboard_check_pressed(vk_space);
 
-if(state){
+if(move_state){
 	path_speed = 3;
 	if(space){
-		state = false;
-		space = false;	
+		move_state = false;
+		move_state = false;	
 	}
 }
-if(!state){
+if(!move_state){
 	path_speed = 0;
 	if(space){
-		state = true;
-		space = false;	
+		move_state = true;
+		move_state = false;	
 	}
 }
