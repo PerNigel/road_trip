@@ -2,9 +2,9 @@ fuel = 100;
 food = 100;
 sleep = 100;
 
-city = "Banff";
-city2 = "";
-city1 = "Edmonton";
+city = "Town_1";
+city2 = "Town_2";
+city1 = "Town_3";
 
 /*
 if(oCity.city_name == city){
