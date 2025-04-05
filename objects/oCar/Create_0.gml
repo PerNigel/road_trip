@@ -14,6 +14,6 @@ if(oCity.city_name == city){
 */
 
 move_state = false;
-car_path = car_path_1;
+car_path = 0; // nevermind.
 path_start(car_path,2,path_action_restart,true);
 

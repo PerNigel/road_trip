@@ -1,7 +1,7 @@
 space = keyboard_check_pressed(vk_space);
 
 if(move_state){
-	path_speed = 3;
+	path_speed = 1;
 	if(space){
 		move_state = false;
 		move_state = false;	
